@@ -1,0 +1,3 @@
+<launch>
+  <node name="CsDeviceMonitor" pkg="system_monitor" type="device_monitor.py" />
+</launch>
