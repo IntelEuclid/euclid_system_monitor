@@ -7,8 +7,7 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
 [Intel® Euclid™ Support Forum](http://www.intel.com/content/www/us/en/support/emerging-technologies/intel-euclid-development-kit.html).
 
 ## Subscribed Topics
-
-    None
+	None
 
 ## Published Topics
 
@@ -26,10 +25,10 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
 		CPU model name, Utilization per core, Frequency per core, Temperature, Memory usage percentage.
 
 ## Parameters
-    None
+	None
 		
 ## Services
-   None
+	None
     
 ## Contributing to the Project
 
