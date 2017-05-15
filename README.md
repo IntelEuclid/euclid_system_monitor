@@ -22,7 +22,8 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
         publishes a ROS topic with details for connected 'ttyUSB' devices.
         
     cpu_info
-        publishes a ROS topic with details for CPU model name, Utilization per core, Frequency per core, Temperature, Memory usage percentage.
+        publishes a ROS topic with details for CPU model name, Utilization per core, Frequency per core, 
+	Temperature, Memory usage percentage.
 
 ## Parameters
     None
