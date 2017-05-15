@@ -23,7 +23,7 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
         
     cpu_info
         publishes a ROS topic with details for sampled utilizations such as:
-	CPU model name, Utilization per core, Frequency per core, Temperature, Memory usage percentage.
+		CPU model name, Utilization per core, Frequency per core, Temperature, Memory usage percentage.
 
 ## Parameters
     None
