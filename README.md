@@ -18,12 +18,12 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
     hardware_status
         publishes a ROS topic with details for machine name, battery charging percentage, battery charging state.
 
-		usb_status
+    usb_status
         publishes a ROS topic with details for connected 'ttyUSB' devices.
         
     cpu_info
-        publishes a ROS topic with details for CPU model name, Utilization per core, Frequency per core, 
-	Temperature, Memory usage percentage.
+        publishes a ROS topic with details for sampled utilizations such as:
+	CPU model name, Utilization per core, Frequency per core, Temperature, Memory usage percentage.
 
 ## Parameters
     None
