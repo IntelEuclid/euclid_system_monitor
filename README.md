@@ -30,7 +30,7 @@ This system monitor node is reponsible for providing Intel&reg; Euclid&trade; sy
 ## Contributing to the Project
 
 The Intel&reg; Euclid&trade; System monitor node is developed and distributed under
-a BSD-3 license as noted in [licenses/License.txt](licenses/License.txt).
+a BSD-3 license as noted in [License.txt](licenses/License.txt).
 
 By making a contribution to this project, I certify that:
 
