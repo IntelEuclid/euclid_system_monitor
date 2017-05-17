@@ -1,4 +1,4 @@
-# Intel&reg; Euclid&trade; System monitor node.
+# # Intel&reg; Euclid&trade; Automation Nodes - System monitor node.
 
 This system monitor node is reponsible for providing Intel&reg; Euclid&trade; system utilization and information such as CPU, WiFi, Thermal, and memory consumption.
 
